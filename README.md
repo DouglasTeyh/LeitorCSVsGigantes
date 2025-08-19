@@ -12,7 +12,7 @@ Esta é a forma padrão de se trabalhar com projetos de código. Requer que voc�
     
     ```bash
     # Troque a URL pela URL do seu repositório no GitHub
-    git clone [https://github.com/DouglasTeyh/LeitorCSVsGigantes.git](https://github.com/DouglasTeyh/LeitorCSVsGigantes.git)
+    git clone https://github.com/DouglasTeyh/LeitorCSVsGigantes.git
     ```
 
 3.  **Navegue para a nova pasta** que foi criada.
